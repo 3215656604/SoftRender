@@ -1,0 +1,48 @@
+﻿  MySoftRender.cpp
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(122,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(732,15): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(734,16): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(737,63): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(737,60): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(919,22): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(922,22): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(925,22): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(928,22): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(936,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(376,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(373,1): message : 在编译 类 模板 成员函数“Matrix4<float> Matrix4<float>::get_projection_matrix(float,float,float,float)”时
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(876,13): message : 查看对正在编译的函数 模板 实例化“Matrix4<float> Matrix4<float>::get_projection_matrix(float,float,float,float)”的引用
+D:\VS_PROJECT\MySoftRender\MySoftRender.cpp(552,17): message : 查看对正在编译的 类 模板 实例化“Matrix4<float>”的引用
+  MySoftRender.vcxproj -> D:\VS_PROJECT\MySoftRender\x64\Debug\MySoftRender.exe
